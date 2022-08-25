@@ -1,0 +1,37 @@
+#main {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    /* height: 50px; */
+    width: 200px;
+    border-style: solid;
+    border-color: black;
+    border-width: 1px;
+    padding: 5px;
+}
+
+#quote {
+    /* height: 30px; */
+    /* width: 180px; */
+    /* border-style: solid;
+    border-color: black;
+    border-width: 1px; */
+    /* margin-left: auto; */
+    font-size: 14px;
+    text-align: center;
+
+}
+
+
+#author {
+    height: 10px;
+    width: 150px;
+    /* border-style: solid;
+    border-color: white;
+    border-width: 1px; */
+    margin-left: auto;
+    font-size: 10px;
+    font-style: italic;
+    text-align: right;
+    font-weight: 5;
+}
