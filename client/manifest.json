@@ -3,7 +3,13 @@
     "name": "Inspirational Quotes",
     "version": "1.0",
     "action": {
-        "default_popup": "index.html"
+        "default_popup": "index.html",
+        "default_icon": "neo.png"
     },
-    "description": "An inspirational quote"
+    "description": "An inspirational quote",
+    "icons": {
+        "16": "neo.png",
+        "48": "neo.png",
+        "128": "neo.png"
+    }
 }

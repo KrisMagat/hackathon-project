@@ -1,7 +1,7 @@
 document.addEventListener('DOMContentLoaded', () => {
 
 //get the quote from the source   
-//make a get request from https://zenquotes.io/api/random/
+//make a get request from "https://api.goprogram.ai/inspiration";
 
 const api_url ="https://api.goprogram.ai/inspiration";
 
